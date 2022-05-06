@@ -1,0 +1,149 @@
+.card{
+    position: absolute;
+    top: 100px;
+    left: 220px;
+    background-color: #222831;
+    display: inline-block;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    border-radius: 10px;
+    height: 220px;
+    width: 760px;
+    padding : 20px;
+    margin: 20px;
+  }
+
+img{
+    border-radius: 10px;
+    position: absolute;
+    top:0px;
+    left: 0px;
+    height: 260px;
+    width: 260px;
+}
+
+#name{
+    color:silver;
+    font-size: 16px;
+    position: absolute;
+    left: 275px;
+    top: 0px;
+}
+
+#address{
+    color:silver;
+    font-size: 12px;
+    position: absolute;
+    left: 275px;
+    top: 25px;
+}
+
+#rating{
+    position: absolute;
+    left: 650px;
+    top: 20px;
+}
+
+#featured{
+    color:silver;
+    font-size: 20px;
+    position: absolute;
+    left: 275px;
+    top: 40px;
+}
+
+#product-ig-1{
+    height: 110px;
+    width: 110px;
+    position: absolute;
+    left: 275px;
+    top: 90px;
+}
+
+#product-ig-2{
+    height: 110px;
+    width: 110px;
+    position: absolute;
+    left: 405px;
+    top: 90px;
+}
+
+#product-ig-3{
+    height: 110px;
+    width: 110px;
+    position: absolute;
+    left: 535px;
+    top: 90px;
+}
+
+#product-ig-4{
+    height: 110px;
+    width: 110px;
+    position: absolute;
+    left: 665px;
+    top: 90px;
+}
+
+#product-name-1{
+    color:silver;
+    font-size: 16px;
+    position: absolute;
+    left: 285px;
+    top: 190px;
+}
+
+#product-name-2{
+    color:silver;
+    font-size: 16px;
+    position: absolute;
+    left: 415px;
+    top: 190px;
+}
+
+#product-name-3{
+    color:silver;
+    font-size: 16px;
+    position: absolute;
+    left: 545px;
+    top: 190px;
+}
+
+#product-name-4{
+    color:silver;
+    font-size: 16px;
+    position: absolute;
+    left: 675px;
+    top: 190px;
+}
+
+#product-price-1{
+    color:silver;
+    font-size: 12px;
+    position: absolute;
+    left: 285px;
+    top: 220px;
+}
+
+#product-price-2{
+    color:silver;
+    font-size: 12px;
+    position: absolute;
+    left:415px;
+    top: 220px;
+}
+
+#product-price-3{
+    color:silver;
+    font-size: 12px;
+    position: absolute;
+    left: 545px;
+    top: 220px;
+}
+
+#product-price-4{
+    color:silver;
+    font-size: 12px;
+    position: absolute;
+    left: 675px;
+    top: 220px;
+}
